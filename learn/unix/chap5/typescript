@@ -1,0 +1,12 @@
+Script started on Sat 17 Sep 2011 08:05:14 PM IST
+]0;replay@lockhead:/home/replay/prog/c/learn/unix/chap5[?1034h[root@lockhead chap5]# ls
+foo  read.txt  [0m[01;34mtest[0m  typescript
+]0;replay@lockhead:/home/replay/prog/c/learn/unix/chap5[root@lockhead chap5]# ls | sort
+foo
+read.txt
+test
+typescript
+]0;replay@lockhead:/home/replay/prog/c/learn/unix/chap5[root@lockhead chap5]# ecit[K[K[Kxit
+exit
+
+Script done on Sat 17 Sep 2011 08:05:23 PM IST

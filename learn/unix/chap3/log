@@ -1,0 +1,16 @@
+Script started on Thu 13 Oct 2011 05:29:52 PM IST
+]0;replay@lockhead:/home/replay/prog/c/learn/unix/chap3[?1034h[root@lockhead chap3]# ls
+log
+]0;replay@lockhead:/home/replay/prog/c/learn/unix/chap3[root@lockhead chap3]# ls -all
+total 8
+drwxr-xr-x. 2 root root 4096 Oct 13 17:29 [0m[01;34m.[0m
+drwxr-xr-x. 8 root root 4096 Oct 13 17:29 [01;34m..[0m
+-rw-r--r--. 1 root root    0 Oct 13 17:29 log
+]0;replay@lockhead:/home/replay/prog/c/learn/unix/chap3[root@lockhead chap3]# ps a[K[K[K[Kwho
+replay   tty7         2011-10-13 17:21 (:0)
+replay   pts/0        2011-10-13 17:27 (:0.0)
+root     pts/1        2011-10-13 17:29
+]0;replay@lockhead:/home/replay/prog/c/learn/unix/chap3[root@lockhead chap3]# exit
+exit
+
+Script done on Thu 13 Oct 2011 05:30:07 PM IST
